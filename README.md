@@ -1,4 +1,4 @@
-Thread-safe object pool.
+Thread-safe object pool.  
 Use the following:
 ```
 var set = ObjectPool<HashSet<int>>.Get();
